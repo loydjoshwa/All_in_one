@@ -1,9 +1,10 @@
 import React from 'react'
+import Child from './component/Child'
 
 const App = () => {
   return (
     <div>
-      <h1>hello</h1>
+      <Child />
     </div>
   )
 }
