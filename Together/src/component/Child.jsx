@@ -13,7 +13,7 @@ const Child = () => {
     <>
      <input type="text" onChange={handleChange} />
      <br />
-    <div style={{width:"200px",height:"200px" , backgroundColor:color , border:"2px solid black"}}>
+    <div style={{width:"400px",height:"400px" , backgroundColor:color , border:"2px solid black"}}>
       
     </div>
     </>
